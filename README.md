@@ -1,4 +1,4 @@
-Python API Frameworks with Docker 🚀
+# Python API Frameworks with Docker 🚀
 
 This repository is a starter kit for building web applications using three popular Python web frameworks: Django, Flask, and FastAPI.
 
@@ -20,3 +20,11 @@ It is asynchronous and easy to use, making it an ideal choice for building RESTf
 To get started with FastAPI, explore the fastapi folder.
 
 🚧 Note: Each folder contains its respective framework setup and code samples. Be sure to check the individual READMEs within each folder for further instructions and details.
+
+## Subscribe and Stay Tuned! 🎉
+
+Join our YouTube channel for more tech tutorials and quick hacks!
+
+[![Subscribe to Our YouTube Channel](https://img.shields.io/badge/Subscribe-OurChannel-red)](https://www.youtube.com/@majesticcoding)
+
+Like, share, and subscribe to support the channel and stay updated with more exciting content. Enjoy your coding adventures! 🚀
