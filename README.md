@@ -16,7 +16,7 @@ To get started with Flask, head to the flask folder.
 
 Visit Docker Image Below:
 
-[![Docker Image](https://img.shields.io/docker/v/mattmajestic/mamba-conda?color=blue&label=mattmajestic/mamba-conda&logo=docker&logoColor=white&style=for-the-badge)](https://hub.docker.com/r/mattmajestic/mamba-conda)
+[![Docker Image](https://img.shields.io/docker/v/mattmajestic/flask-api?color=blue&label=mattmajestic/flask-api&logo=docker&logoColor=white&style=for-the-badge)](https://hub.docker.com/r/mattmajestic/flask-api)
 
 `docker pull mattmajestic/flask-api` from Terminal
 
